@@ -1,1 +1,1 @@
-this is a calculatorto finsh The Odin Project course.
+this is a calculator to finsh The Odin Project course.
