@@ -26,6 +26,7 @@
     border: 1px solid black;
     border-radius: 10px;
     height: 100px;
+    text-align: center;
   }
 
 .pad{
@@ -58,8 +59,8 @@ button{
   }
 
 button:hover {
-  background-color: #0056b3; /* Un azul más oscuro */
-  transform: scale(1.05);    /* Efecto de zoom leve */
+  background-color: #0056b3; 
+  transform: scale(1.05);    
   transition: background-color 0.3s, transform 0.2s;
   }
 
